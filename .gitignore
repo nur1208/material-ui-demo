@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 note.txt
+CloneComp.jsx
 # testing
 /coverage
 
